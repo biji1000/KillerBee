@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body{
+  background: url(./images/honeycomb.jpg)no-repeat center center;
+}
+
+.game{
+  display: block;
+  margin: auto;
+  padding:20px;
+  width: 800px;
+  background:#FF7F50b0;
+}
